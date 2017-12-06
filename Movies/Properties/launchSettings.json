@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Movies17": {
+    "Movies": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
