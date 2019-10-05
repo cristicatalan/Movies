@@ -14,3 +14,5 @@ To add all the frontend dependencies install jspm. To install it globally run:
 
 To install all the project dependencies run:
 `jspm install`
+
+:+1:
